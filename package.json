@@ -1,0 +1,19 @@
+{
+  "name": "webtask-mern",
+  "version": "1.0.0",
+  "description": "mern project with webtask",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11",
+    "webtask-tools": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run create -- --watch",
+    "create": "wt create index --bundle"
+  },
+  "author": "Anand Babu",
+  "license": "MIT"
+}

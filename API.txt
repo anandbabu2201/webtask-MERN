@@ -1,0 +1,3 @@
+wt create index --secret MONGO_URL=mongodb://anandbabu2201:kasturibai@ds135394.mlab.com:35394/merndb --bundle
+
+https://wt-01a39c42e4ef8541515a8cea325b718d-0.run.webtask.io/webtask-mern/stories
